@@ -6,7 +6,7 @@ import { SiGeeksforgeeks } from "react-icons/si";
 export default function Hero(){
 
     const config = {
-        subtitle: "I am a Java Developer",
+        subtitle: "A Budding Developer",
         social:{
             github:'https://github.com/JeevithaDhanasekaran',
             linkedin:'https://www.linkedin.com/in/jeevitha-dhanasekaran-11475a214/',
